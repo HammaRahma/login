@@ -1,3 +1,6 @@
+body{
+  background: #e1dfdf;
+}
 .container{
   
   /*padding: 8% 0 0;
@@ -7,11 +10,11 @@
   border-radius: 15px;
   font:600 16px/18px 'Open Sans',sans-serif;
   /*background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);*/
-  background-image: url('backgroundLogin.jpg');
+  background-image: url('backgroundLogin.jpg') no-repeat center;
   z-index: 11;
-  position: absolute;
+  position: relative;
   width: 400px;
-  margin: -100px 0 0 -200px;
+  margin: 150px 0 0 -200px;
   top: 50%;
   left: 50%;
   box-shadow: 0px 4px 6px 0px rgba(0,0,0, 0.5);
