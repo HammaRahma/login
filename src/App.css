@@ -2,14 +2,9 @@ body{
   background: #e1dfdf;
 }
 .container{
-  
-  /*padding: 8% 0 0;
-  /*margin: auto;*/
-  /*padding-top: initial;*/
   border: 1px solid #888;
   border-radius: 15px;
   font:600 16px/18px 'Open Sans',sans-serif;
-  /*background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);*/
   background-image: url('backgroundLogin.jpg') no-repeat center;
   z-index: 11;
   position: relative;
